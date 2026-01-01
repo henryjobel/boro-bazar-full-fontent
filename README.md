@@ -5,7 +5,7 @@ To customize tailwind configuration go to -> tailwind.config.js file .
 /public: To change your api data, favicon, multi-language assets (images, placeholder)
 etc here .
 /src/components: This folder contains all the template related ui components .
-/src/containers: This folder contains all the common sections related components.
+/src/containers: This folder contains all the common sections related components.;
 /src/contexts: This folder contains all necessary context for this template . Like cart, ui etc.
 /src/framework: It's contain all the data fetching related codes. see below for more info.
 /src/pages: All the pages created here which is used by nextjs routing mechanism .
